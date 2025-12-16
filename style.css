@@ -86,7 +86,7 @@ input[type="password"]::placeholder, input[type="text"]::placeholder{
 
 input[type="password"]:focus, input[type="text"]:focus{
     outline: 0;
-    border: 1px solid #bc3838;
+    border: 1px solid #b0b0b0;
 }
 
 input[type="submit"]{
@@ -196,4 +196,25 @@ footer a{
     cursor: pointer;
     font-weight: bold;
 
+}
+
+.divisor-container{
+    display: flex;
+   justify-content: center;
+    align-items: center;   
+    margin: 10px 0;
+
+}
+
+.line{
+    height: 1px;
+    background-color: #e6e6e6;
+    width: 35%;
+}
+
+.divisor-tag{
+    font-weight: bold;
+    margin: 0 2.5%;
+    color: #8e8e8e;
+    user-select: none;
 }
