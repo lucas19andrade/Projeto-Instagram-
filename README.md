@@ -66,6 +66,6 @@ Projeto front-end desenvolvido com o objetivo de praticar HTML e CSS, recriando 
 
 ## ▶️ Como Executar o Projeto
 
-1. Clone este repositório:
+1. Clone este repositório:https://github.com/lucas19andrade/Projeto-Instagram-.git
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
