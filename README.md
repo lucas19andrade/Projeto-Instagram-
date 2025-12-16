@@ -9,9 +9,28 @@ Projeto front-end desenvolvido com o objetivo de praticar HTML e CSS, recriando 
 
 ## 🖼️ Preview do Projeto
 
-<img width="487" height="878" alt="image" src="https://github.com/user-attachments/assets/d998e777-da3c-4f69-be03-4535f2abba55" />
-<img width="481" height="880" alt="image" src="https://github.com/user-attachments/assets/2142e2f2-cc5d-4bb8-b2aa-142f1fdf42eb" />
-<img width="1351" height="852" alt="image" src="https://github.com/user-attachments/assets/3578f2d0-fbf7-4d86-89e8-017c9ebacdd0" />
+<!-- MOBILE -->
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/d998e777-da3c-4f69-be03-4535f2abba55" 
+    width="30%" 
+    alt="Versão Mobile 1"
+  />
+  <img 
+    src="https://github.com/user-attachments/assets/2142e2f2-cc5d-4bb8-b2aa-142f1fdf42eb" 
+    width="30%" 
+    alt="Versão Mobile 2"
+  />
+</p>
+
+<!-- DESKTOP -->
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3578f2d0-fbf7-4d86-89e8-017c9ebacdd0" 
+    width="80%" 
+    alt="Versão Desktop"
+  />
+</p>
 
 
 
